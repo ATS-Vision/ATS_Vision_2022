@@ -1,0 +1,16 @@
+1.打开终端
+
+
+export LANG=en_US
+xdg-user-dirs-gtk-update
+
+2. 此时弹出界面，选择“更新名称”
+3. 将语言改回中文
+
+
+
+export LANG=zh_CN.UTF-8
+xdg-user-dirs-gtk-update
+
+4.此时弹出界面，选择“保留旧的名称”
+rdftf
